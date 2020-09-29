@@ -1,0 +1,32 @@
+{
+  "name": "utils-init",
+  "version": "1.0.0",
+  "description": "The relevant helper functions when starting any project with Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sldeaals/utils-init.git"
+  },
+  "keywords": [
+    "utils-js",
+    "javascript",
+    "hapijs",
+    "nodejs"
+  ],
+  "author": "Daniel Elías Arias Agüero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sldeaals/utils-init/issues"
+  },
+  "homepage": "https://github.com/sldeaals/utils-init#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "nodemailer": "^6.4.11",
+    "read-excel-file": "^4.0.7"
+  }
+}
